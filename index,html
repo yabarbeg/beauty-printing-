@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MirzaDeveloper Pitch</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>MirzaDeveloper</h1>
+    <p>Empowering Local Businesses with Stylish One-Page Websites</p>
+  </header>
+
+  <section class="card">
+    <h2>Why Your Shop Needs a Website</h2>
+    <ul>
+      <li>Boost your sales with an online presence</li>
+      <li>Customers can find you 24/7</li>
+      <li>Build trust with modern branding</li>
+    </ul>
+  </section>
+
+  <section class="card">
+    <h2>What You Get</h2>
+    <ul>
+      <li>Mobile-friendly, beautiful design</li>
+      <li>Free hosting via GitHub Pages</li>
+      <li>Fast loading and SEO ready</li>
+    </ul>
+  </section>
+
+  <section class="card">
+    <h2>Contact & Get Started</h2>
+    <p>WhatsApp: <strong>8923690103</strong></p>
+    <a class="btn" href="https://wa.me/923001234567" target="_blank">Message on WhatsApp</a>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 MirzaDeveloper. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
